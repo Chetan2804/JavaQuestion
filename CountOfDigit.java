@@ -20,7 +20,7 @@ public class CountOfDigit {
 		}
 
 		System.out.println("Number of digit is : " + count );
-		System.out.println("HI")
+		System.out.println("HI");
 	}
 
 }
