@@ -3,5 +3,6 @@ public class NewB {
 
 
 		System.out.println("WOWOWOWOWOWOWOWOWOWO");
+        System.out.println("WOWOWO");
 	}
 }
